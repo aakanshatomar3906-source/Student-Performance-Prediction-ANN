@@ -204,15 +204,8 @@ http://localhost:8501
 
 ## 📸 Application Preview
 
-Add screenshots of your running application here.
+![Uploading Screenshot 2026-11-14 220956.png…]()
 
-```markdown
-![Application Home Page](screenshots/home.png)
-
-![Prediction Result](screenshots/prediction-result.png)
-```
-
-Create a `screenshots` folder in your project and place your actual screenshots inside it.
 
 ---
 
